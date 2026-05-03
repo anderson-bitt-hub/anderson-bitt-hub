@@ -1,49 +1,38 @@
 # Anderson Madalena
 
 <p align="center">
-  Desenvolvedor focado em desenvolvimento web (HTML, CSS e JavaScript)
+  Desenvolvedor Front-End • HTML • CSS • JavaScript
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor em formação com foco em desenvolvimento web, criando interfaces modernas, responsivas e bem estruturadas utilizando HTML, CSS e JavaScript.
+Desenvolvedor em formação focado na criação de interfaces modernas, responsivas e bem estruturadas.
 
-Também possuo experiência com C# e .NET, onde desenvolvi APIs e sistemas organizados em camadas, fortalecendo minha lógica de programação e entendimento de backend.
-
-Busco evoluir constantemente na área de tecnologia, criando soluções eficientes, bem organizadas e com boa experiência para o usuário.
+Possuo experiência com HTML, CSS e JavaScript, além de conhecimentos em C# e .NET para desenvolvimento de APIs.
 
 ---
 
-## Projetos em Destaque
+## Projetos
 
-### 🔹 API de Cadastro Completa
-Sistema desenvolvido em .NET com:
-- Cadastro de clientes, produtos e funcionários  
-- Validação de CPF e e-mail  
-- Estrutura em camadas (Models, Services, Controllers)  
-- Simulação de ambiente empresarial  
+🔹 API de cadastro (clientes, produtos e funcionários)  
+🔹 Sistema de playlist  
+🔹 Site para clínica veterinária  
 
 ---
 
-### 🔹 Sistema de Playlist
-- Inspirado em plataformas de streaming  
-- Organização de músicas por usuário  
-- Estrutura pensada para evolução futura  
+## Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor front-end, com foco em evolução contínua e desenvolvimento profissional.
 
 ---
 
-### 🔹 Site Profissional
-- Desenvolvimento de site para clínica veterinária  
-- Layout moderno e responsivo  
-- Foco em apresentação de serviços e contato  
+## Tecnologias
 
----
-
-## Objetivo Profissional
-
-Busco minha primeira oportunidade como desenvolvedor front-end, onde eu possa aplicar meus conhecimentos em HTML, CSS e JavaScript, além de continuar evoluindo tecnicamente em um ambiente profissional.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,cs,dotnet" />
+</p>
 
 ---
 
@@ -52,12 +41,4 @@ Busco minha primeira oportunidade como desenvolvedor front-end, onde eu possa ap
 <p align="center">
   <a href="https://www.linkedin.com/in/anderson-dos-santos-madalena-5788bb2a8">LinkedIn</a> •
   <a href="mailto:andersonmadalena@gmail.com">Email</a>
-</p>
-
----
-
-## Stack Tecnológica
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,cs,dotnet" />
 </p>
